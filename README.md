@@ -1,4 +1,4 @@
-<h3 align="center">Junior AI Student at Imam Abdulrahman Bin Faisal University.</h3>
+<h3 align="center">Senior AI Student at Imam Abdulrahman Bin Faisal University.</h3>
 
 - 🌱 I’m currently learning **Riverpod**
 
@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **majidsraimi@gmail.com**
 
-- 📄 Know about my experiences [https://majidraimi.netlify.app/](https://majidraimi.netlify.app/)
+- 📄 Know about my experiences [majidraimi.com](https://www.majidraimi.com/)
 
 - ⚡ Fun fact **'Just A Tech'**
 
